@@ -1,0 +1,27 @@
+
+.naw-menu{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+}
+.good-item{
+    display: block;
+    margin-left: 50px;
+    border-radius: 25px;
+    width: 10%;
+    height: 35px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Avenir',Arial,sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li:hover
+{
+    background-color: silver;
+    
+}
